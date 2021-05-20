@@ -27,4 +27,7 @@ insert into users values('shashi','shashi','Shashi','Raj','Bihar','1236547089','
  
 insert into users values('brhma','reddy,'brahma','ap','14567890','brahma@gmail.com',4)
 
+insert into users values('brhma','reddy,'brahma','ap','14567890','brahma@gmail.com',5)
+
+
 commit;
