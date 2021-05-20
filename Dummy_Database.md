@@ -29,5 +29,7 @@ insert into users values('brhma','reddy,'brahma','ap','14567890','brahma@gmail.c
 
 insert into users values('brhma','reddy,'brahma','ap','14567890','brahma@gmail.com',5)
 
+insert into users values('brhma','reddy,'brahma','ap','14567890','brahma@gmail.com',5)
+
 
 commit;
